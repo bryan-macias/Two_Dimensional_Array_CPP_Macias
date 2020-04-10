@@ -65,6 +65,7 @@ int main()
  
 
     int temperature[CITY][WEEK];
+    //created this array to display the city names when running program.
     string cityArray[2] = {"Santa Clara", "Houston" };
 
     //Note your input data from the above
